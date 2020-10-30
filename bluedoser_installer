@@ -1,5 +1,5 @@
 #!/bin/bash
 
 chmod +x bluedoser
-cp -r bluedoser /usr/local/sbin
+sudo cp -r bluedoser /usr/local/sbin
 echo -e now just type sudo bluedoser in your terminal have fun 
